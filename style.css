@@ -17,6 +17,7 @@ p {
     font-family: cursive;
     text-align: center;
     color: blue;
+    margin: auto;
 
 }
 
@@ -43,6 +44,9 @@ p {
     align-items: center;
     flex-wrap: wrap;
     list-style: circle;
+    font-size: 1.3rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
 }
 
 .instructionsList {
